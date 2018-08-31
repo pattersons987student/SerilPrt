@@ -1,0 +1,10 @@
+C:\Users\spatterson\source\repos\MySerial\MySerial\bin\Debug\MySerial.exe.config
+C:\Users\spatterson\source\repos\MySerial\MySerial\bin\Debug\MySerial.exe
+C:\Users\spatterson\source\repos\MySerial\MySerial\bin\Debug\MySerial.pdb
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.csprojAssemblyReference.cache
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.Form1.resources
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.Properties.Resources.resources
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.csproj.GenerateResource.cache
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.csproj.CoreCompileInputs.cache
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.exe
+C:\Users\spatterson\source\repos\MySerial\MySerial\obj\Debug\MySerial.pdb
